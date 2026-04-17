@@ -1,5 +1,5 @@
 
-````md
+
 # 🚀 EduBuddy — AI-Powered Learning Platform
 
 <div align="center">
