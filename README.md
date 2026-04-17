@@ -53,10 +53,14 @@ EduBuddy combines intelligent tutoring, resource management, community collabora
 
 ### 📦 Installation
 ```bash
+# Frontend
+cd app
+npm install
+npm run build
 # Backend
 cd edubuddy-backend
-pip install -r requirements.txt
+python -m venv venv
+.\venv\Scripts\Activate
+python install .
 
-# Frontend
-cd edubuddy-frontend
-npm install
+
