@@ -62,5 +62,6 @@ cd edubuddy-backend
 python -m venv venv
 .\venv\Scripts\Activate
 python install .
+py app.py
 
 
